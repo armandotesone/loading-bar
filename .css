@@ -1,0 +1,24 @@
+.loader{
+  height:100vh;
+  display:flex;
+  text-align:center;
+  justify-content:center;
+  align-items:center;
+       }
+.progressbar{
+  width:800px; 
+  height:100px;
+  background-color:black;
+            }
+.progress{
+  height:100%;
+  width:0;
+  background-color:lime;
+  width: 0.5s;
+         }
+.percent{
+  font-weight:bold;
+  color:black;
+  margin--left:95%;
+}
+         
